@@ -1,0 +1,9 @@
+[Unit]
+Description=Run themeswitcher shecduly
+
+[Timer]
+OnUnitActiveSec=1h
+Unit=themeswitcher.service
+
+[Install]
+WantedBy=graphical.target

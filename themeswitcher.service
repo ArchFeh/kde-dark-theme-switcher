@@ -1,0 +1,4 @@
+[Unit]
+Description=theme-switcher-auto
+[Service]
+ExecStart=/bin/bash /home/archie/kde-dark-theme-switcher/dark-theme-switcher.sh 
