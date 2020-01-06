@@ -1,5 +1,7 @@
 # kde-dark-theme-switcher
 this script switch dark theme automatic with status night mod
+## Version 0.03
+Add systemd daemon to work per hour
 ## Version 0.02
 Now change theme depend with status night mod
 ## Version 0.01
